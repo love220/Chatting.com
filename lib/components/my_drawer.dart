@@ -22,7 +22,7 @@ class MyDrawer extends StatelessWidget {
               const Padding(
                 padding: EdgeInsets.only(top: 80.0, bottom: 90.0),
                 child: Text(
-                  "H A M D A R D",
+                  "PALETTE STUDIOS",
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                 ),
               ),
